@@ -1,0 +1,17 @@
+Assignment2
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+About:
+The program is about 3D world in which tiles are there and a robot has to move from a target point to destiny facing all the obstacles.
+
+How to run:
+-> The makefile compiles the code. (Type 'make' on the terminal)
+-> Now type './Graphics' (on terminal) to run the executable. {linux}
+
+Controls:
+-> Use s key to start the game
+-> Use 8 key for forward jump,5 for backward, 6 for right, q for left, 
+-> Use t for tower view,f fot first person view,g for tile view,v for third person view,left click for helicopter view.
+-> The left ,right,up,down key for translating the robot. 
+
+
